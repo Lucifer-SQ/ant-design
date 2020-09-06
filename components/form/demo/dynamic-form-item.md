@@ -94,7 +94,7 @@ const DynamicFieldSet = () => {
                   }}
                   style={{ width: '60%', marginTop: '20px' }}
                 >
-                  <PlusOutlined /> Add field at head
+                  <PlusOutlined /> Add field at
                 </Button>
               </Form.Item>
             </div>
